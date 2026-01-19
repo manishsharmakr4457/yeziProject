@@ -1,0 +1,12 @@
+{
+  "kind": "books#volume",
+  "id": "12muzgEACAAJ",
+  "selfLink": "http://example.test/volumes/12muzgEACAAJ",
+  "volumeInfo": {
+    "title": "Effective Java",
+    "authors": ["Joshua Bloch"],
+    "pageCount": 416,
+    "language": "en"
+  }
+}
+
